@@ -19,6 +19,12 @@ Script is going to
 
 It's just 50 lines most of them are "echo"
 
+## Download 
+
+```
+curl https://raw.githubusercontent.com/AndrianBdn/ssh-key-import/master/ssh-key-import.sh >> ssh-key-import.sh && chmod 755 ssh-key-import.sh
+```
+
 
 ## More 
 
